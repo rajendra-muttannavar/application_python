@@ -33,7 +33,7 @@ question_no = 0
 # Questions and answers
 questions = [
     ("What is the capital of India?", "delhi"),
-    ("What is the capital of Andhra Pradesh?", "amaravati")
+    ("What is the capital of karnataka?", "bengaluru")
 ]
 
 def check_answer():
